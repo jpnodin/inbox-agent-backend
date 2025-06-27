@@ -1,1 +1,7 @@
-# requirements.txt placeholder
+fastapi
+uvicorn
+alembic
+sqlalchemy
+celery
+redis
+python-dotenv
